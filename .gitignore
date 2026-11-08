@@ -1,0 +1,20 @@
+# --- Secrets (NEVER push these) ---
+.env
+credentials.json
+token.json
+
+# --- Python ---
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# --- Data (candidate CVs are personal data) ---
+data/cvs/
+data/processed_ids.json
+data/output/
+
+# --- Editor / OS ---
+.vscode/
+.DS_Store
+Thumbs.db
