@@ -1,0 +1,17 @@
+{
+  "job_title": "Python Developer",
+  "requirements": [
+    {"id": "R1", "category": "skill", "requirement": "Strong Python programming skills", "must_have": true},
+    {"id": "R2", "category": "skill", "requirement": "Experience building REST APIs with Flask or FastAPI", "must_have": true},
+    {"id": "R3", "category": "skill", "requirement": "Good knowledge of SQL and relational databases such as PostgreSQL", "must_have": true},
+    {"id": "R4", "category": "skill", "requirement": "Git for version control", "must_have": true},
+    {"id": "R5", "category": "skill", "requirement": "Automated testing with pytest or a similar framework", "must_have": false},
+    {"id": "R6", "category": "skill", "requirement": "Docker and containerised deployments", "must_have": false},
+    {"id": "R7", "category": "skill", "requirement": "Experience with a cloud platform, preferably AWS", "must_have": false},
+    {"id": "R8", "category": "experience", "requirement": "At least 2 years of professional experience in Python software development", "must_have": true, "min_years": 2},
+    {"id": "R9", "category": "education", "requirement": "Bachelor's degree in Computer Science, Software Engineering or a related field", "must_have": true},
+    {"id": "R10", "category": "language", "requirement": "Professional working proficiency in English", "must_have": true},
+    {"id": "R11", "category": "language", "requirement": "Arabic", "must_have": false},
+    {"id": "R12", "category": "certification", "requirement": "AWS Certified Cloud Practitioner or an equivalent cloud certification", "must_have": false}
+  ]
+}

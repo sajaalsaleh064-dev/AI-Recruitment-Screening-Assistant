@@ -1,0 +1,21 @@
+Omar Khalil
+SOFTWARE ENGINEER
+Irbid, Jordan | omar.khalil.test@example.com | +962 7 9000 2222
+
+SUMMARY
+Software engineer who enjoys building server-side applications and web services.
+
+SKILLS
+Python scripting, Django, building web services, MySQL, GitHub, Linux, HTML, CSS
+
+EXPERIENCE
+Software Engineer | Jordan Valley Apps | Irbid, Jordan | Jan 2025 - Present
+- Develop server-side features for a Django e-commerce site.
+- Write endpoints that return JSON to the mobile application.
+- Keep source code in GitHub and review pull requests from teammates.
+
+EDUCATION
+Bachelor's degree in Software Engineering | Yarmouk University | 2024
+
+LANGUAGES
+Arabic (native), English (intermediate)

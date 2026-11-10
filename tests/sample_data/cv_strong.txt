@@ -1,0 +1,30 @@
+Layla Haddad
+BACKEND PYTHON DEVELOPER
+Amman, Jordan | layla.haddad.test@example.com | +962 7 9000 1111
+
+PROFESSIONAL SUMMARY
+Backend developer with 4 years of experience building REST APIs and data services in Python.
+
+TECHNICAL SKILLS
+Programming: Python, SQL, Bash
+Backend: FastAPI, Flask, REST APIs
+Databases: PostgreSQL, Redis
+Tools: Git, GitHub, Docker, AWS (EC2, S3), Linux
+Testing: pytest, unit testing
+
+PROFESSIONAL EXPERIENCE
+Python Developer | Cedar Tech | Amman, Jordan | Mar 2022 - Present
+- Built and maintained REST APIs with FastAPI serving 20,000 daily users.
+- Designed PostgreSQL schemas and optimised slow SQL queries.
+- Deployed services with Docker on AWS.
+Junior Software Developer | Petra Systems | Amman, Jordan | Sep 2020 - Feb 2022
+- Developed Flask web services and wrote pytest test suites.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Jordan | 2020
+
+LANGUAGES
+Arabic (native), English (fluent)
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner (2023)

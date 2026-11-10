@@ -1,0 +1,15 @@
+Data Analyst - Olive Analytics (fictional company, sample data for testing)
+
+We need a Data Analyst to prepare reports and dashboards for our retail clients.
+
+Requirements (required):
+- Advanced Excel and SQL.
+- Experience with Power BI or Tableau dashboards.
+- Minimum 3 years of experience in data analysis.
+- Bachelor's degree in Statistics, Mathematics or Computer Science.
+- Fluent English.
+
+Preferred (a plus):
+- Python with pandas.
+- Microsoft Power BI Data Analyst Associate certification.
+- French.

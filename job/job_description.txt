@@ -1,0 +1,40 @@
+JOB TITLE: Python Developer
+COMPANY: Northwind Digital (fictional company, sample data for testing)
+LOCATION: Amman, Jordan (hybrid)
+EMPLOYMENT TYPE: Full-time
+
+ABOUT THE ROLE
+We are looking for a Python Developer to join our backend team. You will build
+and maintain REST APIs and data-processing services used by our web and mobile
+products, write automated tests, and work closely with frontend developers and
+the QA team.
+
+RESPONSIBILITIES
+- Design, build and maintain backend services and REST APIs in Python.
+- Write clean, tested and documented code.
+- Design database tables and write efficient SQL queries.
+- Review code from teammates and take part in sprint planning.
+- Investigate and fix bugs reported by QA and by customers.
+
+MUST-HAVE REQUIREMENTS
+Skills:
+- Strong Python programming skills.
+- Experience building REST APIs with Flask or FastAPI.
+- Good knowledge of SQL and relational databases such as PostgreSQL.
+- Daily use of Git for version control.
+Experience:
+- At least 2 years of professional experience in Python software development.
+Education:
+- Bachelor's degree in Computer Science, Software Engineering or a related field.
+Languages:
+- Professional working proficiency in English.
+
+NICE-TO-HAVE REQUIREMENTS
+Skills:
+- Automated testing with pytest or a similar framework.
+- Docker and containerised deployments.
+- Experience with a cloud platform, preferably AWS.
+Languages:
+- Arabic.
+Certifications:
+- AWS Certified Cloud Practitioner or an equivalent cloud certification.
