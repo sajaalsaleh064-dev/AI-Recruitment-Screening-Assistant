@@ -13,3 +13,20 @@ python-docx
 # AI
 ollama
 sentence-transformers
+
+# --- Week 2 ---
+# Data + ranking
+pandas
+
+# Backend API
+fastapi
+uvicorn
+pydantic
+
+# User interface
+streamlit
+requests
+
+# Testing
+pytest
+httpx
